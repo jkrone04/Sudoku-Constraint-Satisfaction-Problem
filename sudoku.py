@@ -1,10 +1,3 @@
-"""
-Name: Rifat Ralfi Salhon (Rifat.Salhon@tufts.edu)
-Student ID: 1209440
-Name: Jacob Kroner
-Student ID: 1237221
-Assignment 3: Constraint Satisfaction Problems
-"""
 import sys
 import time
 
