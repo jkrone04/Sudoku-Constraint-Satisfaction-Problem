@@ -1,6 +1,6 @@
-# Run the following command:
-# python3 sudoku.py
-# where the easy and hard puzzle will automatically be inputted into the program.
+Run the following command:
+python3 sudoku.py
+where the easy and hard puzzle will automatically be inputted into the program.
 
 # Alternatively, run the command:
 # python3 sudoku.py <pattern>
